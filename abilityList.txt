@@ -1,0 +1,96 @@
+Astra Ability Star 150 5 Is consumed by Astra's other abilities.
+Astra Ability Gravity_Well 0 1 Pulls enemies to center and makes them vulnerable.
+Astra Ability Nova_Pulse 0 1 Concusses enemies.
+Astra Ability Nebula/Dissapate 0 2 Acts as a smoke.
+Astra Ultimate Cosmic_Divide 7 1 Creates a wall spanning the entire map.
+Breach Ability Aftershock 200 1 Damages enemies.
+Breach Ability Flashpoint 250 2 Flashbang to blind enemies.
+Breach Ability Fault_Line 0 1 Concusses enemies.
+Breach Ultimate Rolling_Thunder 7 1 Concusses and displaces enemies.
+Brimstone Ability Stim_Beacon 200 1 Boosts fire rate and reload speed.
+Brimstone Ability Incendiary 250 1 Deploys a Molotov.
+Brimstone Ability Sky_Smoke 100 3 Deploys smoke clouds to block vision.
+Brimstone Ultimate Orbital_Strike 8 1 Calls down a laser beam in a large area.
+Chamber Ability Trademark 200 1 Deployable that slows enemies.
+Chamber Ability Headhunter 100 8 Equips a heavy pistol.
+Chamber Ability Rendezvous 0 1 Teleport to a set location.
+Chamber Ultimate Tour_de_Force 8 1 Sniper rifle that slows enemies on kills.
+Clove Ability Pick-me-up 200 1 Heals allies in the area.
+Clove Ability Meddle 250 1 Cripples enemy movement and abilities.
+Clove Ability Ruse 150 2 Deploys smoke to obscure vision.
+Clove Ultimate Synthesis 8 1 Enhances allies' abilities and health regeneration.
+Cypher Ability Trapwire 200 2 Deploys a tether trap.
+Cypher Ability Cyber_Cage 100 2 Creates a field that blocks vision and muffles sounds.
+Cypher Ability Spycam 0 1 Deploys a camera to scout enemies.
+Cypher Ultimate Neural_Theft 7 1 Reveals the location of all enemies.
+Deadlock Ability GravNet 200 1 Slows enemies.
+Deadlock Ability Sonic_Sensor 200 2 Deployable that concusses enemies.
+Deadlock Ability Barrier_Mesh 0 1 Deploys a barrier that blocks movement.
+Deadlock Ultimate Annihilation 8 1 Fires a pulse that seeks and traps the first enemy hit.
+Fade Ability Seize 200 1 Tethers and cripples enemies.
+Fade Ability Prowler 250 2 Deploys a creature to nearsight enemies.
+Fade Ability Haunt 0 1 Reveals enemies in the area.
+Fade Ultimate Nightfall 8 1 Cripples and reveals all enemies hit.
+Gekko Ability Mosh_Pit 250 1 Explodes after delay, dealing damage.
+Gekko Ability Wingman 300 1 Deployable that concusses enemies.
+Gekko Ability Dizzy 0 1 Blinds enemies.
+Gekko Ultimate Thrash 8 1 Controlled deployable that detains enemies.
+Harbor Ability Cascade 150 2 Deploys a wall of water that slows enemies.
+Harbor Ability Cove 350 1 Creates a sphere that blocks vision and projectiles.
+Harbor Ability High_Tide 0 1 Deploys a large wall of water.
+Harbor Ultimate Reckoning 7 1 Stuns enemies caught in multiple waves.
+Iso Ability Contingency 200 1 Deploys a defensive barrier.
+Iso Ability Undercut 200 2 Cripples enemies in a small area.
+Iso Ability Double_Tap 0 1 Gains invulnerAbility and mobility for a short duration.
+Iso Ultimate Finality 7 1 Enhances all abilities and grants extra damage to enemies.
+Jett Ability Cloudburst 200 2 Deploys a smoke cloud.
+Jett Ability Updraft 150 1 Provides upward mobility.
+Jett Ability Tailwind 0 1 Dashes in the movement direction.
+Jett Ultimate Blade_Storm 8 1 Equips a set of throwing knives.
+KAY/O Ability FRAG/ment 200 1 Explosive grenade that deals damage in an area.
+KAY/O Ability FLASH/drive 250 2 Flashbang to blind enemies.
+KAY/O Ability ZERO/point 0 1 Suppression blade that disables enemy abilities.
+KAY/O Ultimate NULL/cmd 7 1 Suppresses enemies and boosts KAY/O's fire rate.
+Killjoy Ability Nanoswarm 200 2 Deploys a grenade that explodes into a damaging area.
+Killjoy Ability Alarmbot 200 1 Deploys a robot that debuffs enemies.
+Killjoy Ability Turret 0 1 Deploys a turret that fires at enemies.
+Killjoy Ultimate Lockdown 9 1 Detains enemies within its range.
+Omen Ability Shrouded_Step 150 2 Teleports a short distance.
+Omen Ability Paranoia 250 1 Nearsights all enemies hit.
+Omen Ability Dark_Cover 0 2 Deploys smokes to block vision.
+Omen Ultimate From_the_Shadows 7 1 Teleports anywhere on the map.
+Phoenix Ability Blaze 150 1 Creates a wall of fire that blocks vision and heals.
+Phoenix Ability Curveball 250 2 Deploys a flashbang.
+Phoenix Ability Hot_Hands 0 1 Throws a fireball that heals Phoenix and damages enemies.
+Phoenix Ultimate Run_It_Back 6 1 Respawn at a marked location upon death.
+Raze Ability Boom_Bot 300 1 Deployable that chases enemies and explodes.
+Raze Ability Blast_Pack 200 2 Throwable explosives.
+Raze Ability Paint_Shells 0 1 Grenade that splits into cluster bombs.
+Raze Ultimate Showstopper 7 1 Equips a rocket launcher.
+Reyna Ability Leer 250 2 Nearsights enemies in its path.
+Reyna Ability Devour/Dismiss 0 2 Heals or becomes intangible upon enemy death.
+Reyna Ultimate Empress 6 1 Increases fire rate and grants healing or intangibility.
+Sage Ability Barrier_Orb 400 1 Deploys a large wall.
+Sage Ability Slow_Orb 200 2 Slows enemies in an area.
+Sage Ability Healing_Orb 0 1 Heals allies.
+Sage Ultimate Resurrection 8 1 Revives a fallen teammate.
+Skye Ability Regrowth 150 1 Heals all nearby teammates.
+Skye Ability Trailblazer 300 1 Controlled deployable that concusses enemies.
+Skye Ability Guiding_Light 250 2 Flashbang deployable.
+Skye Ultimate Seekers 7 1 Reveals and tracks enemies.
+Sova Ability Shock_Bolt 150 2 Arrow that deals damage in an area.
+Sova Ability Owl_Drone 400 1 Controlled drone that reveals enemies.
+Sova Ability Recon_Bolt 0 1 Reveals enemies in its line of sight.
+Sova Ultimate Hunter's_Fury 8 1 Fires three long-range energy beams.
+Viper Ability Snake_Bite 300 1 Molotov that applies decay.
+Viper Ability Poison_Cloud 200 1 Deploys a gas cloud.
+Viper Ability Toxic_Screen 0 1 Deploys a wall of toxic gas.
+Viper Ultimate Viper's_Pit 7 1 Creates a large toxic area.
+Vyse Ability Razorvine 150 2 Slows enemies in an area.
+Vyse Ability Shear 200 1 Deploys a barrier wall.
+Vyse Ability Arc_Rose 0 1 Controlled deployable that flashes enemies.
+Vyse Ultimate Veil 8 1 Creates a large area that hinders enemy movement and visibility.
+Yoru Ability Fakeout 100 1 Deploys a decoy.
+Yoru Ability Blindside 250 2 Flashbang.
+Yoru Ability Gatecrash 150 1 Teleports to a set location.
+Yoru Ultimate Dimensional_Drift 6 1 Becomes invisible and invulnerable temporarily.
